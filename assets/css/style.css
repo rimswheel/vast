@@ -34,7 +34,7 @@
   --pumpkin: hsl(22, 90%, 56%);
   --white: hsl(0, 0%, 100%);
   --black: hsl(0, 0%, 0%);
-
+  --golds:hsl(0, 100%, 50%);"
   /**
    * typography
    */
@@ -342,7 +342,7 @@ body {
 \*-----------------------------------*/
 
 .hero {
-  background-color: var(--russian-violet);
+  background-color: var(--gold);
   color: var(--white);
   padding-block-start: calc(var(--section-padding) + 70px);
 }
